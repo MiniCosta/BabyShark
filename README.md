@@ -1,2 +1,3 @@
 # BabyShark
-Jogo de LoP
+Jogo de LoP - Aluno: Paulo Costa Braga
+
