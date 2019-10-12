@@ -1,3 +1,7 @@
+/*
+Equipe: Paulo Costa Braga - 1A (Líder) 
+Etapas 1, 2, 3 e 4.
+*/
 var x = 200;
 var y = 350;
 var x0 = 160;
